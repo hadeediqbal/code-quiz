@@ -10,4 +10,4 @@ You can check the leaderboard by clicking the highscore button in the beginning.
 Credit:
 https://youtu.be/f4fB9Xg2JEY
 
-![](Images/2021-01-17 (2).png)
+<img src="Images/2021-01-17 (2).png">
